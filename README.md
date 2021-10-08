@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="mehmetsayin| LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <a href="mailto:sayinmehme47@gmail.com"><img align="left" alt="sayinmehmet47 | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />[<img align="left" alt="sayinmehmet47 | StackOverFlow" width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" />][stackoverflow]
 
 <br />
