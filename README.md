@@ -22,5 +22,6 @@
 
 
   
-[linkedin]: https://www.linkedin.com/in/sayinmehmet47
+[linkedin]:  https://www.linkedin.com/in/sayinmehmet/
+
 [stackoverflow]:https://stackoverflow.com/users/15106423/sayinmehmet47
