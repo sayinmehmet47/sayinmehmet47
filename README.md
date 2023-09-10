@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on MERN stack projects and NextJS
-- 🌱 I’m currently learning PostgreSQL
-- 👯 I’m looking to collaborate on ReactJs projects
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on ReactJs, Nodejs projects
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I waste most of my free time playing games
 - 💻 Life Hack: Learn new tech and share what you have learned
